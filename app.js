@@ -33,4 +33,4 @@ console.log(JSON.stringify(res,null,'\t'));
 
 console.log('rene test');
 console.log('hola');
-
+console.log('msg feature/add_console');
